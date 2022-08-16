@@ -19,7 +19,7 @@ setup(
     author_email="<giovanni.tertulli@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
-    install_requires=['],
+    install_requires=[],
     keywords=['python', 'Apple', 'Health],
     classifiers=[
         "Development Status :: 1 - Planning",
